@@ -1,0 +1,17 @@
+{
+  "name": "enron-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camelcase": "^4.0.0",
+    "fs-jetpack": "^0.10.5",
+    "single-line-log": "^1.1.2",
+    "write-json-file": "^2.0.0"
+  }
+}

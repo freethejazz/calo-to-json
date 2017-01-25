@@ -1,0 +1,5 @@
+*.tgz
+*.bz2
+*.swp
+node_modules
+maildir
