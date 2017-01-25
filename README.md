@@ -21,6 +21,7 @@ Untar it here. The directory structure should look something like:
     |-- ...
 |-- package.json
 |-- ...
+```
 
 Then, simply run `node index.js`. The application will read in emails,
 convert them to JSON, write them in place, and delete the original
